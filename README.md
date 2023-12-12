@@ -1,4 +1,4 @@
-# Dip
+# Digital Image Processing
 
 ## Practical Questions 
 
